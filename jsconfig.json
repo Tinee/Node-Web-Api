@@ -1,0 +1,12 @@
+{
+   "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs"
+   },
+   "files": [
+      "typings/tsd.d.ts",
+      "index.js",
+      "cat_model.js",
+      "cat_routes.js"
+   ]
+}
